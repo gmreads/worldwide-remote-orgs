@@ -2,7 +2,7 @@
 Worldwide remote companies that I want to work at.
 
 ## Desirable Attributes
-- People first and value driven culture
+- People and values first culture
 - Global pay
 - Strong Engineering
 
