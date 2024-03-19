@@ -23,3 +23,4 @@ Worldwide remote companies that I want to work at.
 
 ## Open Source, non-remote
 - [Temporal](https://temporal.io/)
+- [TiDB](https://www.pingcap.com/careers/)
