@@ -10,6 +10,7 @@ Worldwide remote companies that I want to work at.
 - Unpaid overtime/weekend work
 
 ## Strategies
+- Be a better engineer everyday.
 - Build network
 - Open source start contributing
 - Closed source, start using products.
