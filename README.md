@@ -6,7 +6,7 @@ Worldwide remote companies that I want to work at.
 - Global pay
 - Strong Engineering
 
-## Undesirable Attributes
+### Undesirable Attributes
 - Unpaid overtime/weekend work
 
 ## Strategies
