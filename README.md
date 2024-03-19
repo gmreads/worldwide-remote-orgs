@@ -4,6 +4,10 @@ Worldwide remote companies that I want to work at.
 ## Desirable Attributes
 - People first and value driven culture
 - Global pay
+- Strong Engineering
+
+## Undesirable Attributes
+- Unpaid overtime/weekend work
 
 ## Strategies
 - Build network
