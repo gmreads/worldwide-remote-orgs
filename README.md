@@ -1,18 +1,16 @@
 # Description
-Worldwide remote companies that I want to work at.
+Worldwide remote companies that hire in India and I would love to work at.
 
 ## Desirable Attributes
 - People and values first culture
 - Global pay
-- Strong Engineering
+- Strong engineering peers
 
-### Undesirable Attributes
-- Unpaid overtime/weekend work
 
 ## Strategies
 - Be a better engineer everyday.
 - Build network
-- Open source start contributing
+- Open source contributions
 - Closed source, start using products.
 
 
