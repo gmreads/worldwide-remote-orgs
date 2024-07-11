@@ -19,6 +19,10 @@ Worldwide remote companies that hire in India and I would love to work at.
 - [Tetrate](https://tetrate.io/job/software-engineer-golang/)
 - [Scylla DB](https://www.scylladb.com/company/careers/)
 - [Sourcegraph](https://boards.greenhouse.io/sourcegraph91)
+- [Cutomer.io](https://customer.io/)
+
+## Doesn't hire in india Timzeone 
+- [PostHog](https://posthog.com/)
 
 ## India Center 
 - [Atlassian](https://www.atlassian.com/company/careers/all-jobs?team=Engineering&location=&search=Bengaluru)
